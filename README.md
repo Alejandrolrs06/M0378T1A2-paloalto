@@ -8,7 +8,8 @@ A lo largo de las actividades se ha trabajado con capturas de tráfico (PCAP) re
 
 ## Índice
 
-\<details> \<summary>Ver actividades\</summary>
+<details>
+<summary>Ver actividades</summary>
 
 1. [Personalización de columnas en Wireshark](#actividad-1--personalización-de-columnas-en-wireshark)
 2. [Expresiones de filtrado en Wireshark](#actividad-2--expresiones-de-filtrado-en-wireshark)
@@ -19,7 +20,7 @@ A lo largo de las actividades se ha trabajado con capturas de tráfico (PCAP) re
 7. [Herramientas utilizadas](#herramientas-utilizadas)
 8. [Referencias](#referencias)
 
-\</details>
+</details>
 
 ---
 
