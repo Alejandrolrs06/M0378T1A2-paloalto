@@ -190,8 +190,8 @@ En las capturas se muestra el proceso completo:
 - Verificación del DLL exportado (`invest_20.dll`) mediante `file` y `shasum -a 256`, confirmando que se trata de un ejecutable PE32 para Windows.
 
 **Capturas:**
-![Captura 1 - Configuración inicial de Nginx](img/5.png)
-
+![Captura 1 - Configuración inicial de Nginx](img/5.1.png)
+![Captura 1 - Configuración inicial de Nginx](img/5.2.png)
 
 
 
@@ -218,7 +218,7 @@ Se adjunta un vídeo donde se muestra el intento de extracción del ZIP y el err
 **Vídeo de prueba:** 
 
 **Captura:**
-**Vídeo de prueba:** [Ver vídeo de la actividad 6](videos/actividad6.mp4)
+**Vídeo de prueba:** [Ver vídeo de la actividad 6](video/6.mp4)
 
 
 ---
